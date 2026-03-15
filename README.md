@@ -46,7 +46,8 @@ $APPLICATION->IncludeComponent(
 		]
     ]
 );
-```markdown
+```
+
 PRESET_CAT allows the component to receive a predefined structure of estimate categories.
 These categories are used to generate default rows when creating a new estimate.
 
